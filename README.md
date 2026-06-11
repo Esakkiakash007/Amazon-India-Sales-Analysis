@@ -11,6 +11,7 @@ using Excel, MySQL, and Power BI to uncover key business insights.
 
 ## 📊 Dataset
 - Source: Kaggle (Amazon Sale Report)
+- Link: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 - Records: 1,20,350 orders
 - Period: March 2022 — June 2022
 - Region: India
