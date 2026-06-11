@@ -37,7 +37,9 @@ using Excel, MySQL, and Power BI to uncover key business insights.
 - ⚠️ Problematic Orders: 15.83%
 
 ## 📁 Project Structure
+```
 ├── Amazon_Sale_Report_Cleaned.csv    → Cleaned Dataset
 ├── Amazon_Sales_Analysis.sql         → SQL Queries
 ├── Amazon_India_Sales_Analysis.pbix  → Power BI Dashboard
 └── README.md                         → Project Documentation
+```
