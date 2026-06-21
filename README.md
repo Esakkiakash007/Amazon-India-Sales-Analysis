@@ -26,6 +26,10 @@ using Excel, MySQL, and Power BI to uncover key business insights.
 7. B2B vs B2C Analysis
 8. Fulfilment Type Analysis
 
+## 📈 Dashboard Preview
+![Sales_Dashboard](dashboard/amazon-1.png)
+![Key_Insights](dashboard/amazon-2.png)
+
 ## 🔍 Key Insights
 - 💰 Total Revenue: ₹6.7 Crore
 - 📦 Total Orders: 1,03,193
@@ -38,6 +42,9 @@ using Excel, MySQL, and Power BI to uncover key business insights.
 
 ## 📁 Project Structure
 ```
+├── dashboard                         → Screenshots
+    ├── amazon-1.png                  → Sales Dashboard
+    ├── amazon-2.png                  → Key Insights
 ├── Amazon_Sale_Report_Cleaned.csv    → Cleaned Dataset
 ├── Amazon_Sales_Analysis.sql         → SQL Queries
 ├── Amazon_India_Sales_Analysis.pbix  → Power BI Dashboard
